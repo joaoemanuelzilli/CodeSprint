@@ -11,5 +11,5 @@ My repo for competitive programming problem solutions from Beecrowd, coded mainl
 
 || Contact ||
 
-Questions or ideas? Reach me on [LinkedIn: (https://www.linkedin.com/in/jo%C3%A3o-emanuel-zilli/)].
+Questions or ideas? Reach me on [LinkedIn: (https://www.linkedin.com/in/joao-emanuel-zilli/)].
 
